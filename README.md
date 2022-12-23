@@ -2,7 +2,7 @@
 
 ![alt text](https://i.imgur.com/NrNfKr1.png)
 
-И я пишу код на c#, python, c и всё.
+И я пишу код на C#, python, C, и всё.
 Удачи!
 
 - [Youtube (@lomaster086)](https://www.youtube.com/channel/UCBrZRT-yUyHwUbD2o4BZevg))
