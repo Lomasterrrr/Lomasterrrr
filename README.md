@@ -1,6 +1,7 @@
 ### Привет, я [lomaster](https://github.com/Lomasterrrr)).
 
-![alt text]((https://imgur.com/a/WTYfL92))
+![alt text](https://i.imgur.com/vB0jmXf.png)
+
 И я пишу код на c#, python, c и всё.
 Удачи!
 
