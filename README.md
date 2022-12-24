@@ -1,5 +1,5 @@
 ![alt text](https://i.imgur.com/NrNfKr1.png)
-### Привет, я [lomaster](https://github.com/Lomasterrrr)).
+### Привет, я [lomaster](https://github.com/Lomasterrrr).
 И я пишу код на C#, python, C, и всё.
 Удачи!
 
