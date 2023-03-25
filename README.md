@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/NrNfKr1.png)
+![alt text](https://i.imgur.com/wNbNc4m.png)
 ### Привет, я [lomaster](https://github.com/Lomasterrrr).
 И я пишу код на C#, python, C, C++ и всё.
 Удачи!
