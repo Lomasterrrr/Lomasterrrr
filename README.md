@@ -1,6 +1,6 @@
 ![alt text](https://i.imgur.com/p4TfTXE.png)
 ### lomaster, ktotonokto            
-Владею C, C++, C#, python.
+Владею C, C++.
 
 [GitHub (@Lomasterrrr)](https://github.com/Lomasterrrr)  
 [Telegram (@Lomasterrr)](https://t.me/Lomasterrr)  
