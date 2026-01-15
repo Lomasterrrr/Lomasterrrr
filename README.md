@@ -1,4 +1,4 @@
-![alt text]()
+![alt text](image.png)
 ### lomaster, ktotonokto            
 Владею C, C++.
 
