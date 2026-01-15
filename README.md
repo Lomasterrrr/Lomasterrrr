@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/p4TfTXE.png)
+![alt text](image.png)
 ### lomaster, ktotonokto            
 Владею C, C++.
 
