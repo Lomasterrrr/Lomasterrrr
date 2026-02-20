@@ -5,6 +5,7 @@
 #### Проекты (которые наименее стыдно показывать)
 - [newutils](https://github.com/Lomasterrrr/newutils) --- сетевые утилиты для linux/freebsd (ping, arping, traceroute)
 - [aelist](https://github.com/Ae-foundation/aelist) --- иновационный, терминальный, на ncurses, что-то типа dmenu
+- [aed](https://github.com/Ae-foundation/aed) --- иновационный ed (editor), не совсем POSIX, код более менее
 - [sinaibot](https://github.com/Lomasterrrr/sinaibot) --- тг бот для группы Синай; код мог бы быть получше
 - [nesca4](https://github.com/oldteamhost/nesca4) --- сканер сети (по сути nmap + nesca3); код написан давно, заброшен, и такой себе
 - [aefetch](https://github.com/Ae-foundation/aefetch) --- иновационный фетч с очень гибкой настройкой в config.h (типа suckless)
