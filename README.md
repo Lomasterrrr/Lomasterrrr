@@ -1,7 +1,6 @@
 ![alt text](image.png) 
 ## lomaster, ktotonokto             
-Владею C, C++.
-Актуальный git: https://aefdn.ru/
+Владею C, C++  
 
 #### Проекты (которые наименее стыдно показывать)
 - [newutils](https://aefdn.ru/newutils.git/) --- сетевые утилиты для linux/freebsd (ping, arping, traceroute)
